@@ -32,7 +32,8 @@
       "r6": { "reply": ":beginner: **Rule #6:** \nNo Religious or Political discussions."},
       "r7": { "reply": ":beginner: **Rule #7:** \nNo advertising of any kind, unless permission is granted. — Exceptions being texture packs / game mods that relate to yuzu, but these are handled on a case-by-case basis."},
       "r8": { "reply": ":beginner: **Rule #8:** \nIn case of no written rule — the discretion of moderators shall take precedence."},
-      "r9": { "reply": ":beginner: **Rule #9:** \nTrying to evade or circumvent any of the above rules will be considered as breaking them. Doing so will result in warnings, and eventually a ban."}
+      "r9": { "reply": ":beginner: **Rule #9:** \nTrying to evade or circumvent any of the above rules will be considered as breaking them. Doing so will result in warnings, and eventually a ban."},
+      "mods": { "reply": "Visit this site for various game mods: <https://github.com/yuzu-emu/yuzu/wiki/Switch-Mods/>"}
     }
   }
 
