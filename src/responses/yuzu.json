@@ -38,7 +38,8 @@
       "mods": { "reply": "For a list of useful mods for your favorite games, check our database for downloads here: <https://github.com/yuzu-emu/yuzu/wiki/Switch-Mods>"},
       "vc": { "reply": "yuzu requires the latest versions of Microsoft Visual C++. Please download and install the following dependency: <https://aka.ms/vs/16/release/vc_redist.x64.exe>"},
       "infringe": { "reply": "We are aware of the emulator, and are pursuing legal action. They violate our license, and also ship with copyrighted Nintendo files. As such, any references or discussion of the emulator aren't allowed."},
-      "android": { "reply": "While we would love to see yuzu ported to Android in the future, we are currently focused on improving the emulator as a whole. Look out for any future announcements, as we'll make sure to let everyone know if an Android build is on the horizon."}
+      "android": { "reply": "While we would love to see yuzu ported to Android in the future, we are currently focused on improving the emulator as a whole. Look out for any future announcements, as we'll make sure to let everyone know if an Android build is on the horizon."},
+      "firmware": { "reply": "Some games require a firmware dump to work properly, follow the instructions here to dump it from your Nintendo Switch: <https://yuzu-emu.org/help/quickstart/#dumping-system-update-firmware>"}
     }
   }
 
